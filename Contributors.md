@@ -9410,3 +9410,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - nuponiichan (https://github.com/nuponiichan)
 - Hello, I'm Manish Choudhary [Manish Choudhary] (https://github.com/manish-01882)
 - Hi I'm Bartosz from Poland :)
+- Hi I'm Taylor from California.  Knowledge is power
